@@ -16,12 +16,18 @@ defaults:
       layout: "post"
 
 topics:
-  - name: CSS
-    web_url: https://github.com/topics/css
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png
+  - name: Microformats
+    web_url: https://github.com/topics/microformats
+    image_url: https://raw.githubusercontent.com/github/explore/1f7cb6359d64838c4416b0cf4196483ce189776d/topics/microformats/microformats.png
 
-  - name: Web design
+  - name: IndieWeb
+    web_url: https://github.com/topics/indieweb
+    image_url: https://raw.githubusercontent.com/github/explore/522bed80d033d77d1bd3675f819df02ca21a2050/topics/indieweb/indieweb.png
 
-  - name: Sass
-    web_url: https://github.com/topics/sass
-    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/sass/sass.png
+  - name: ActivityPub
+    web_url: https://github.com/topics/activitypub
+    image_url: https://raw.githubusercontent.com/github/explore/df833523cdfb6fa65bb162c67405302a494d6c52/topics/activitypub/activitypub.png
+
+  - name: WordPress
+    web_url: https://github.com/topics/wordpress
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/wordpress/wordpress.png
