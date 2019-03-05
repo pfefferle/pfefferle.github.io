@@ -36,6 +36,11 @@ defaults:
     values:
       layout: "post"
 
+projects_sort_by: pushed
+# Options:
+#   - pushed
+#   - stars
+
 topics:
   - name: Microformats
     web_url: https://github.com/topics/microformats
