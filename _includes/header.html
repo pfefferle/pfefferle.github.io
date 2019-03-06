@@ -17,7 +17,7 @@
 {% endif %}
 
 <!doctype html>
-<html>
+<html class="height-full">
   <head>
     <meta charset="utf-8">
     <meta name="description" content="{{ meta_description }}" />
@@ -26,4 +26,4 @@
     <link href="{{ "/assets/styles.css" | absolute_url }}" rel="stylesheet" type="text/css">
     {% seo %}
   </head>
-  <body class="bg-white" {% if site.style == 'dark' %}style="background-color: #2f363d !important"{% endif %}>
+  <body class="bg-white height-full" {% if site.style == 'dark' %}style="background-color: #2f363d !important"{% endif %}>
