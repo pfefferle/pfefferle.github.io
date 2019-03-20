@@ -1,6 +1,23 @@
 layout: sidebar
 style: light
 
+title: Matthias Pfefferle
+description: user.bio
+
+author: Matthias Pfefferle
+
+twitter:
+  username: pfefferle
+  card: summary
+
+social:
+  name: Matthias Pfefferle
+  links:
+    - https://twitter.com/pfefferle
+    - https://www.linkedin.com/in/pfefferle
+    - https://github.com/pfefferle
+    - https://keybase.io/pfefferle
+
 plugins:
   - jekyll-octicons
   - jekyll-github-metadata
