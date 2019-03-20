@@ -9,7 +9,6 @@ plugins:
   - jemoji
   - jekyll-seo-tag
   - jekyll-mentions
-  - jekyll-fontawesome-svg
 
 permalink: /:year/:month/:day/:title/
 
