@@ -37,14 +37,13 @@
       </div>
     {% endif %}
     <div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %}">
-      {% octicon link height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:WordPress %}
+      {% octicon link height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} %}
       <a href="https://profiles.wordpress.org/pfefferle/" rel="me" {% if site.style == 'dark' %}class="text-white"{% endif %}>
         WordPress.org
       </a>
     </div>
     <div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %}">
       :bird: &nbsp;
-      {% fa_svg fab.fa-twitter height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Twitter  %}
       <a href="https://twitter.com/pfefferle/" rel="me" {% if site.style == 'dark' %}class="text-white"{% endif %}>
         @pfefferle
       </a>
