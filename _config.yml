@@ -57,15 +57,9 @@ projects:
   # telegram: your_username
   # twitter: your_username
   # youtube: your_username
-<<<<<<< HEAD
   # instagram: your_username
   # unsplash: your_username
-=======
   # vk: your_username
-<<<<<<< HEAD
->>>>>>> Add Telegram and VK
-=======
->>>>>>> removed empty line
 
 topics:
   - name: Microformats
@@ -90,4 +84,8 @@ topics:
 
   - name: HTML
     web_url: https://github.com/topics/html
+<<<<<<< HEAD
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/html/html.png
+=======
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/html/html.png
+>>>>>>> added some more plugins
