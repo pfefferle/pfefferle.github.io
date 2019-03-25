@@ -62,7 +62,10 @@ projects:
   # unsplash: your_username
 =======
   # vk: your_username
+<<<<<<< HEAD
 >>>>>>> Add Telegram and VK
+=======
+>>>>>>> removed empty line
 
 topics:
 <<<<<<< HEAD
