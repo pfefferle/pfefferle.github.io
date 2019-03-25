@@ -42,13 +42,6 @@
         WordPress.org
       </a>
     </div>
-    <div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %}">
-      :bird: &nbsp;
-      {% fa_svg fab.fa-twitter height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Twitter  %}
-      <a href="https://twitter.com/pfefferle/" rel="me" {% if site.style == 'dark' %}class="text-white"{% endif %}>
-        @pfefferle
-      </a>
-    </div>
     {% if user.location %}
       <div class="{{ metadata_styles }} {% if site.style == 'dark' %}text-white{% endif %}">
         {% octicon location height:20 class:"mr-2 v-align-middle" fill:{{ icon_color }} aria-label:Location %}
