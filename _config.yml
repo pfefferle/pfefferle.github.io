@@ -60,6 +60,8 @@ social_media:
   # instagram: your_username
   # unsplash: your_username
   # vk: your_username
+  keybase: pfefferle
+  website: https://pfefferle.org/
 
 topics:
   - name: Microformats
