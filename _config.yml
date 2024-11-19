@@ -12,10 +12,8 @@ twitter:
 social:
   name: Matthias Pfefferle
   links:
-    - https://twitter.com/pfefferle
     - https://www.linkedin.com/in/pfefferle
     - https://github.com/pfefferle
-    - https://keybase.io/pfefferle
 
 plugins:
   - jekyll-octicons
